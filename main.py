@@ -1,1 +1,1 @@
-print("AI labour Market Data Science Project")
+print("AI Labour Market Data Science Project") 
